@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Kumar!  
 
-🚀 **Full Stack Web Developer** | React.js, Node.js, Express.js, MongoDB  
+🚀 **Aspiring MERN Full Stack Web Developer** | React.js, Node.js, Express.js, MongoDB  
 🎓 Student at **Marwadi University, Rajkot, Gujarat**  
 💡 Passionate about **building dynamic and scalable web applications**  
 
